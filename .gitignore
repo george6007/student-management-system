@@ -1,0 +1,19 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables and local secrets
+.env
+database_local.py
+
+# IDE settings
+.vscode/
+
+# Test and coverage files
+.pytest_cache/
+.coverage
